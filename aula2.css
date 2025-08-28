@@ -1,0 +1,41 @@
+/* 
+p seleciona todos os parágrafos.
+div p seleciona os paragráfos que estiverem dentro de uma div.
+div > p seleciona somente os paragráfos filhos de uma div.
+*/
+
+div{
+ font-size:25px;
+ border:3px solid turquoise;
+ padding:8px;
+ margin:8px; 
+
+}
+
+
+
+
+div div{
+color:midnightblue
+}
+
+
+
+
+ div > div{
+
+ }
+ body > div {
+
+ }
+body > div > div{
+
+}
+body div div{
+
+}
+body > div{
+    border-radius:20px;
+}
+
+

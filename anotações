@@ -9,3 +9,7 @@ h dentro de uma tag é altura
 Title= Faz mudar o nome do site 
 !=CRIA a bugaia toda
 br= as coisas que vc escreve vão ficar uma embaixo da outra
+ul= cria uma lista não ordenada
+ol= cria uma lista ordenada
+se escrever reversed vai ir do ultimo para o primeiro
+/*=comentario(não aparece na folha normal)
